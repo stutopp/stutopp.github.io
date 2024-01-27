@@ -1,7 +1,5 @@
 # About Me
-I am a first-year [MS Operations Research](https://www.isye.gatech.edu/academics/masters/degrees/ms-operations-research) student at Georgia Tech (expected graduation December 2024). 
-
-Previously, I was an Army Cyber Warfare officer and a Military Intelligence officer for about ten years.
+I am a first-year MS Operations Research student at Georgia Tech (expected graduation December 2024).
 
 You can find me on [LinkedIn](https://linkedin.com/in/stutopp) or [view a current copy of my resume](stutopp.net/resume/stuart_topp_resume.pdf).
 
