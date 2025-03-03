@@ -16,6 +16,8 @@ You can view a current copy of my resume [here](resume.pdf).
 	- Intelligence support to cyberspace operations
 - US Army Military Intelligence Officer (2014 &mdash; 2015)
 	- Tactical intelligence
+	- Security operations
+	- Antiterrorism/force protection
 
 # Certifications/Qualifications
 - TS//SCI since 2014
