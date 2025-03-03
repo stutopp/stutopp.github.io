@@ -1,5 +1,5 @@
 # About Me
-I am a STEM polymath and US Army Veteran seeking employment as an Operations Research/Systems Analyst or as a Systems, Industrial, Data Science, or Machine Learning Engineer. I have a  
+I am a STEM polymath and US Army Veteran seeking employment as an Operations Research/Systems Analyst or as a Systems, Industrial, Data Science, or Machine Learning Engineer. I have over ten years of experience working in a broad range of technical leadership roles as a former US Army Cyber Warfare and Military Intelligence Officer.
 
 You can view a current copy of my resume [here](resume.pdf).
 
@@ -10,11 +10,11 @@ You can view a current copy of my resume [here](resume.pdf).
 # Highlighted Work Experience
 - Research Associate, Georgia Tech Financial Services Innovation Lab (2023 &mdash; present)
 	- DARPA-funded Human-Machine Interface & AI/ML research
-- US Army Cyber Warfare Officer (2016 %mdash; present)
+- US Army Cyber Warfare Officer (2016 &mdash; present)
 	- Offensive Cyberspace Operations officer
 	- Army, Joint, interagency, and coalition cyber planning
 	- Intelligence support to cyberspace operations
-- US Army Military Intelligence Officer (2014 %mdash; 2015)
+- US Army Military Intelligence Officer (2014 &mdash; 2015)
 	- Tactical intelligence
 
 # Certifications/Qualifications
