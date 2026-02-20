@@ -4,4 +4,4 @@ plugins:
 - jekyll-redirect-from
 
 title: stutopp.net
-description: Stu Topp is an Operations Research/Systems Analyst and US Army Veteran.
+# description: Stu Topp is an Operations Research/Systems Analyst and US Army Veteran.
