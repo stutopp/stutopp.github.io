@@ -33,4 +33,4 @@
 **Contact**
 - Email: [stu@stutopp.net](mailto:stu@stutopp.net)
 - Google Voice/WhatsApp/Signal: [+1 (803) 956-0109](tel:18039560109)
-- [LinkedIn](https://www.linkedin.com/in/stutopp)
+- LinkedIn: [www.LinkedIn.com/in/stutopp](https://www.linkedin.com/in/stutopp)
