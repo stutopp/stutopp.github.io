@@ -1,6 +1,4 @@
-# About Me
-I am a professional cat herder and occasional operations research/systems analyst, systems engineer, and offensive cybersecurity engineer. I lead multidisciplinary technical teams, solve hard problems, and deliver executable solutions. 
-
+I am a professional cat herder and occasional operations research/systems analyst, systems engineer, and offensive cybersecurity engineer. I lead multidisciplinary technical teams, solve hard problems, and deliver executable solutions. View my current resume [here](resume.pdf).
 
 # Highlighted Work Experience
 - Research Associate, Georgia Tech Financial Services Innovation Lab (2023 &mdash; present)
@@ -13,8 +11,6 @@ I am a professional cat herder and occasional operations research/systems analys
 - US Army Military Intelligence Officer (2014 &mdash; 2015)
 	- Delivered timely and accurate intelligence analysis.
 	- Led red teaming for planning, wargames, and operational decisionmaking.
-
-View my current resume [here](resume.pdf).
 
 # Education
 - MS Operations Research (Georgia Institute of Technology, 2024)
