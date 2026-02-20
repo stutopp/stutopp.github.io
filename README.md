@@ -36,5 +36,3 @@ I am a professional cat herder and occasional operations research/systems analys
 - [Email: stu@stutopp.net](mailto:stu@stutopp.net)
 - [Google Voice/WhatsApp/Signal: +1 (803) 956-0109](tel:18039560109)
 - [LinkedIn.com/in/stutopp](https://www.linkedin.com/in/stutopp)
-
-&copy; 2026 Stuart R Topp.
