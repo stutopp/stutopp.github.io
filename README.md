@@ -1,14 +1,13 @@
 **Highlighted Work Experience**
 - Staff Software Engineer, Daedalus Cyber (2026 &mdash; present)
-- Research Associate, Georgia Tech Financial Services Innovation Lab (2023 &mdash; present)
-	- Conducted artificial intelligence and machine learning for national security applications
-	- Lead technical writer and editorial reviewer for program deliverables. 
+- Consulting Research Associate, Georgia Tech Human-Centered Artificial Intelligence Lab (2023 &mdash; present)
+	- Consulting industry researcher exploring agentic AI decision-making for national security and defense.
 - Principal Consultant, Topp Technical Consulting (2020 &mdash; present)
-	- Provided reduced-rate independent consulting on cybersecurity, information security, compliance, risk management, and business continuity for small businesses and professional practices.
-- US Army Cyber Warfare Officer (2016 &mdash; 2023)
+	- Provide reduced/no-fee independent consulting on cybersecurity, information security, compliance, risk management, and business continuity for small businesses and professional practices.
+- Cyber Warfare Officer, US Army (2016 &mdash; 2023)
 	- Technical leader responsible for planning, executing, and overseeing offensive cyberspace and intelligence operations in support of national security objectives across tactical, operational, and strategic levels.
-- US Army Military Intelligence Officer (2014 &mdash; 2015)
-	- Delivered timely and accurate intelligence analysis.
+- Military Intelligence Officer, US Army (2014 &mdash; 2015)
+	- Tactical intelligence officer and information collection manager responsible for delivering timely and accurate intelligence analysis.
 	- Led red teaming for planning, wargames, and operational decisionmaking.
 
 **Education**
@@ -34,6 +33,6 @@
 - I'm a cited source on [Wikipedia](https://en.wikipedia.org/wiki/Virtual_Heroes#cite_ref-36)!
 
 **Contact**
-- [+1 (803) 956-0109](tel:18039560109) (Call/Text/Signal/WhatsApp)
+- [+1 (803) 956-0109](tel:+18039560109) (Call/Text/Signal/WhatsApp)
 - [stu@stutopp.net](mailto:stu@stutopp.net)
 - [LinkedIn.com/in/stutopp](https://www.linkedin.com/in/stutopp)
