@@ -23,12 +23,12 @@
 - Glenn Matlin, Isaac Song, Yixiong Hao, Parv Mahajan, Evan Montoya, Ryan Bard, Stuart R. Topp, Anthony Wen-Ming Zang, Mohammed Rehan Parwani, Soham Shetty, Mark Riedl (2026). Shall We Play a Game? Language Models for Open-ended Wargames.
 	- Social Simulation with LLMS: Fidelity in Applications @ COLM 2026. Available from [openreview.net](https://openreview.net/forum?id=jNGi4ugi85) or [arxiv.org](https://arxiv.org/abs/2509.17192v3).
 	- Wordplay: When Language Meets Games @ EMNLP 2025. Available from [wordplay-workshop](https://wordplay-workshop.github.io/pdfs/41.pdf) or [arXiv.org](https://arxiv.org/abs/2509.17192v2).
-- Ali Maher, Cody Kester, Stuart Topp, Wesley Trumbauer (2014). Generating geo-referenced terrain for Army simulation programs using RUGUD. Posters ’14: Proceedings of the 2014 SpringSim Poster Session. Available from [acm.org](https://dl.acm.org/doi/abs/10.5555/2664311.2664321)
+- Ali Maher, Cody Kester, Stuart Topp, Wesley Trumbauer (2014). Generating geo-referenced terrain for Army simulation programs using RUGUD. Posters ’14: Proceedings of the 2014 SpringSim Poster Session. Available from [acm.org](https://dl.acm.org/doi/abs/10.5555/2664311.2664321).
 
 **Selected White Papers & Research**
-- Grodzinsky, Nathan, Destina Surin, Stu Topp (2024). [Battlefield Command and Control Systems Resilience in an Electromagnetic-Contested Environment](ewNet.pdf)
-- Stu Topp (2014). [Simulating Cyber Conflict Effects on Computer Networks with Python](thesis.pdf)
-- Matthew Moellering, Stu Topp (2014). [Wargaming Cyber Conflict Effects on a Stryker Infantry Company](hollis.pdf) 
+- Grodzinsky, Nathan, Destina Surin, Stu Topp (2024). [Battlefield Command and Control Systems Resilience in an Electromagnetic-Contested Environment](ewNet.pdf).
+- Stu Topp (2014). [Simulating Cyber Conflict Effects on Computer Networks with Python](thesis.pdf).
+- Matthew Moellering, Stu Topp (2014). [Wargaming Cyber Conflict Effects on a Stryker Infantry Company](hollis.pdf).
 
 **"Fun" Fact(s)**
 - I'm a cited source on [Wikipedia](https://en.wikipedia.org/wiki/Virtual_Heroes#cite_ref-36)!
