@@ -3,7 +3,7 @@
 - Research Associate, Georgia Tech Financial Services Innovation Lab (2023 &mdash; present)
 	- Conducted artificial intelligence and machine learning for national security applications
 	- Lead technical writer and editorial reviewer for program deliverables. 
-- Principal Consultant, Topp Technical Consulting (2023 &mdash; present)
+- Principal Consultant, Topp Technical Consulting (2020 &mdash; present)
 	- Provided reduced-rate independent consulting on cybersecurity, information security, compliance, risk management, and business continuity for small businesses and professional practices.
 - US Army Cyber Warfare Officer (2016 &mdash; 2023)
 	- Technical leader responsible for planning, executing, and overseeing offensive cyberspace and intelligence operations in support of national security objectives across tactical, operational, and strategic levels.
