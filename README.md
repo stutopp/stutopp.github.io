@@ -34,6 +34,6 @@
 - I'm a cited source on [Wikipedia](https://en.wikipedia.org/wiki/Virtual_Heroes#cite_ref-36)!
 
 **Contact**
-- Email: [stu@stutopp.net](mailto:stu@stutopp.net)
-- Google Voice/WhatsApp/Signal: [+1 (803) 956-0109](tel:18039560109)
-- LinkedIn: [www.linkedin.com/in/stutopp](https://www.linkedin.com/in/stutopp)
+- [+1 (803) 956-0109](tel:18039560109) (Call/Text/Signal/WhatsApp)
+- [stu@stutopp.net](mailto:stu@stutopp.net)
+- [LinkedIn.com/in/stutopp](https://www.linkedin.com/in/stutopp)
