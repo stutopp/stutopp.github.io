@@ -1,7 +1,7 @@
 **Highlighted Work Experience**
-Chief Executive Officer, InnovAItion Research (2025 &mdash; present)
--	Lead the research and development of AI systems for national security and defense applications, including decision-support and wargaming.
--	Exercise sole management authority over business administration and daily operations.
+- Chief Executive Officer, InnovAItion Research (2025 &mdash; present)
+	- Lead the research and development of AI systems for national security and defense applications, including decision-support and wargaming.
+	- Exercise sole management authority over business administration and daily operations.
 - Principal Consultant, Topp Technical Consulting (2020 &mdash; present)
 	- Provide reduced/no-fee independent cybersecurity; information security; governance, risk, and compliance; and business continuity consulting to small businesses and professional practices.
 - Staff Software Engineer, Daedalus Cyber (2026 &mdash; present)
