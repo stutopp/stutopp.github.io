@@ -1,9 +1,13 @@
 **Highlighted Work Experience**
-- Staff Software Engineer, Daedalus Cyber (2026 &mdash; present)
-- Consulting Research Associate, Georgia Tech Human-Centered Artificial Intelligence Lab (2023 &mdash; present)
-	- Consulting industry researcher exploring agentic AI decision-making for national security and defense.
+Chief Executive Officer, InnovAItion Research (2025 &mdash; present)
+-	Lead the research and development of AI systems for national security and defense applications, including decision-support and wargaming.
+-	Exercise sole management authority over business administration and daily operations.
 - Principal Consultant, Topp Technical Consulting (2020 &mdash; present)
-	- Provide reduced/no-fee independent consulting on cybersecurity, information security, compliance, risk management, and business continuity for small businesses and professional practices.
+	- Provide reduced/no-fee independent cybersecurity; information security; governance, risk, and compliance; and business continuity consulting to small businesses and professional practices.
+- Staff Software Engineer, Daedalus Cyber (2026 &mdash; present)
+	- Conduct research and development for a next-generation AI-enabled cyberspace intelligence analyst platform.
+- Research Associate (Consulting), Georgia Tech Human-Centered Artificial Intelligence Lab (2023 &mdash; present)
+	- Consulting industry researcher exploring agentic AI decision-making for national security and defense.
 - Cyber Warfare Officer, US Army (2016 &mdash; 2023)
 	- Technical leader responsible for planning, executing, and overseeing offensive cyberspace and intelligence operations in support of national security objectives across tactical, operational, and strategic levels.
 - Military Intelligence Officer, US Army (2014 &mdash; 2015)
